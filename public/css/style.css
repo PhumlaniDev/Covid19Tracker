@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container-fluid {
+  display: flex;
+}
+
+.block {
+  width: 289px;
+  height: 120px;
+  background: #333333;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+div .title {
+  color: #989898;
+  position: relative;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+div .data_name {
+  color: #989898;
+  position: relative;
+  margin-left: 10px;
+  margin-bottom: 0;
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+div .data {
+  position: relative;
+  margin-left: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  color: #989898;
+  opacity: 0.22;
+}

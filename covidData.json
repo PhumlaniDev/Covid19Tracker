@@ -1,0 +1,20 @@
+{
+    "All": {
+        "confirmed": 2916179,
+        "recovered": 0,
+        "deaths": 88587,
+        "country": "South Africa",
+        "population": 56717156,
+        "sq_km_area": 1221037,
+        "life_expectancy": "51.1",
+        "elevation_in_meters": "1,034",
+        "continent": "Africa",
+        "abbreviation": "ZA",
+        "location": "Southern Africa",
+        "iso": 710,
+        "capital_city": "Pretoria",
+        "lat": "-30.5595",
+        "long": "22.9375",
+        "updated": "2021/10/17 12:21:15+00"
+    }
+}
